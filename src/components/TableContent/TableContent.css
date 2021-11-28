@@ -1,0 +1,18 @@
+table, th, td {
+    width: 90%;
+    margin: 2vw auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.id {
+    width: 10%;
+}
+.name {
+    width: 25%;
+}
+.email {
+    width: 25%;
+}
+.body {
+    width: 40%;
+}
